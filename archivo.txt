@@ -1,6 +1,7 @@
 linea 1(rama funcion)
 linea 2(rama funcion)
 agregado la edicion(beimarhuarachi)
+agregado el logotipo(beimar2)
 line 3 (rama master y funcion)
 
 lina 4 (beimar huarachi y beimar2)
