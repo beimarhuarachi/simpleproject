@@ -1,4 +1,5 @@
 linea 1(rama funcion)
+linea intermedia entre 1 y 2(original beimarhuarachi)
 linea 2(rama funcion)
 agregado la edicion(beimarhuarachi)
 agregado el logotipo(beimar2)
